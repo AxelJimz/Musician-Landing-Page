@@ -1,0 +1,23 @@
+/* BACKGROUNDS */
+.bg-banner,
+.bg-img,
+.bg-img-2 {
+    background-image: url(../../src/images/backgrounds/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-img {
+    background-image: url(../../src/images/backgrounds/bg-img.png);
+}
+.bg-img-2 {
+    background-image: url(../../src/images/backgrounds/bg-img-2.png);
+}
+.bg-black {
+    background-color: #1b1b1b;
+}
+
+/* COLORS */
+.text-white {
+    color: #f7f7f7;
+}
